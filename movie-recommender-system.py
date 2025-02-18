@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import ast
-import nltk
 import pickle
 from sklearn.metrics.pairwise import cosine_similarity
 from nltk.stem.porter import PorterStemmer
